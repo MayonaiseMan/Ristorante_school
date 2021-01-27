@@ -1,0 +1,22 @@
+Clienti
+	nome
+	numero telefono
+
+Camerieri
+	nome
+	anni di esperienza
+
+Conto
+	composto da portate
+		nome
+		prezzo
+	prezzo(somma singole portate * n portate)
+
+Tavoli
+	numero persone max
+	numero tavolo
+
+Prenotazioni
+	giono ora
+	nome prenotazione
+	numero persone
